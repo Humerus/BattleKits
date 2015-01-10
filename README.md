@@ -1,6 +1,6 @@
 ![BattleKits Logo](http://dl.dropboxusercontent.com/s/ne3a0iiccrxqw4e/battlekits.png.-m1.png)  BattleKits
 ==========
-
+...
 BattleKits is a shiny new kit plugin for PocketMine. It is essential to any KitPvP server. 
 
 ### Features
